@@ -1,0 +1,36 @@
+---
+title: .small[Formation CISEF consortium - ICCAT - AOTTP]
+subtitle: .ssmall[Introduction to Bayesian statistics in a context of capture-recapture]
+author: .verysmall[<br />21th to 23rd July 2020<br />Online via Zoom]
+output:
+  xaringan::moon_reader:
+    css: ["assets/css/xaringan-themer.css", "assets/css/custom.css"]
+    lib_dir: "assets/libs"
+    seal: true
+    yolo: false
+    self_contained: false
+    nature:
+      ratio: "4:3"
+      titleSlideClass: ["right", "middle"]
+      highlightStyle: 'zenburn'
+      highlightLines: false
+      countIncrementalSlides: false
+      slideNumberFormat: "%current% / %total%"
+      beforeInit: "assets/libs/macros.js"
+---
+
+
+## Programme
+
+
+.pull-left[
+`r icon::fa("hand-point-right", color = "#3f3f3f")` &nbsp;**Introduction to Bayesian statistics**
+
+`r icon::fa("hand-point-right", color = "#3f3f3f")` &nbsp;**Applications to Capture-Recapture data**
+]
+
+.pull-right[
+[**[Cours]**](https://github.com/liviergimenez/Bayesian_Workshop)
+
+[**[Cours]**](https://github.com/LGuery/Bayesian_Workshop_AOTTP)
+]
