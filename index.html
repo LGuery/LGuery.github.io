@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
   <head>
-    <title>.small[Introduction to Bayesian statistics in a context of capture-recapture]</title>
+    <title>.small[ Formation CISEF consortium ICCAT - AOTTP]</title>
     <meta charset="utf-8" />
-    <meta name="author" content=".verysmall[ 21th to 23rd of July 2020 Online via Zoom]" />
-    <link href="assets/libs/font-awesome-5.3.1/css/fontawesome-all.min.css" rel="stylesheet" />
+    <meta name="author" content=".verysmall[ 21th to 23rd July 2020 Online via Zoom]" />
     <link rel="stylesheet" href="assets/css/xaringan-themer.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/custom.css" type="text/css" />
   </head>
@@ -12,19 +11,21 @@
     <textarea id="source">
 class: right, middle, title-slide
 
-# .small[Bayesian Workshop - CISEF consortium - AOTTP]
+# .small[<br />Formation CISEF consortium<br />ICCAT - AOTTP]
 ## .ssmall[Introduction to Bayesian statistics in a context of capture-recapture]
-### .verysmall[<br />21th to 23rd of July 2020<br />Online via Zoom]
+### .verysmall[<br />21th to 23rd July 2020<br />Online via Zoom]
 
 ---
+
+
 
 ## Programme
 
 
 .pull-left[
-<i class="fas  fa-hand-point-right " style="color:#3f3f3f;"></i> &amp;nbsp;**Introduction to Bayesian statistics**
+fa_hand-point-right &amp;nbsp;**Introduction to Bayesian statistics**
 
-<i class="fas  fa-hand-point-right " style="color:#3f3f3f;"></i> &amp;nbsp;**Applications to Capture-Recapture data**
+fa_hand-point-right &amp;nbsp;**Applications to Capture-Recapture data**
 ]
 
 .pull-right[
@@ -81,9 +82,25 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     deleted = true;
   });
-})();</script>
-
-<script>
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
 (function() {
   var links = document.getElementsByTagName('a');
   for (var i = 0; i < links.length; i++) {
@@ -91,8 +108,7 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
       links[i].target = '_blank';
     }
   }
-})();
-</script>
+})();</script>
 
 <script>
 slideshow._releaseMath = function(el) {

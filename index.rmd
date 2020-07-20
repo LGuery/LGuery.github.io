@@ -1,5 +1,5 @@
 ---
-title: .small[Formation CISEF consortium - ICCAT - AOTTP]
+title: .small[<br />Formation CISEF consortium<br />ICCAT - AOTTP]
 subtitle: .ssmall[Introduction to Bayesian statistics in a context of capture-recapture]
 author: .verysmall[<br />21th to 23rd July 2020<br />Online via Zoom]
 output:
@@ -30,7 +30,7 @@ output:
 ]
 
 .pull-right[
-[**[Cours]**](https://github.com/liviergimenez/Bayesian_Workshop)
+[**[Cours]**](https://github.com/oliviergimenez/Bayesian_Workshop)
 
 [**[Cours]**](https://github.com/LGuery/Bayesian_Workshop_AOTTP)
 ]
