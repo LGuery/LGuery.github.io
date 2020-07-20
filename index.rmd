@@ -24,9 +24,9 @@ output:
 
 
 .pull-left[
-`r icon::fa("hand-point-right", color = "#3f3f3f")` &nbsp;**Introduction to Bayesian statistics**
+`r icon::fa("hand-point-right", color = "#3f3f3f")` &nbsp;**Introduction to Bayesian statistics** by Olivier Gimenez
 
-`r icon::fa("hand-point-right", color = "#3f3f3f")` &nbsp;**Applications to Capture-Recapture data**
+`r icon::fa("hand-point-right", color = "#3f3f3f")` &nbsp;**Applications to Capture-Recapture data** by Loreleï Guéry
 ]
 
 .pull-right[
